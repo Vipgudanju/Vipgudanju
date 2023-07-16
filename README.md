@@ -1,4 +1,8 @@
-### Hi there 👋
+### 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
+<h1>
+    저는 개발자를 꿈꾸는 <b>박준식</b> 입니다.
+</h1>
 
 <!--
 **Vipgudanju/Vipgudanju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
